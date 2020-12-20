@@ -1,0 +1,22 @@
+{
+  "name": "marketapp",
+  "version": "1.0.0",
+  "description": "Application for official first app by Toure Technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "marketapp"
+  },
+  "keywords": [
+    "toure",
+    "node",
+    "jamaica",
+    "Shavon",
+    "Golbourne"
+  ],
+  "author": "Shavon Golbourne",
+  "license": "ISC"
+}
